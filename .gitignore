@@ -1,0 +1,27 @@
+# Labs
+
+Ivan/
+книги_нейро/
+articls/
+.vscode/
+мучор/
+
+
+/**/*.pdf
+/**/*.png
+/**/*.jpg
+
+*.py
+
+task_5/**/*.hdf5
+task_5/.vscode
+task_5/__pycache__
+task_5/HDFView-3.1.3-win10_64-vs16
+task_5/output
+task_5/phase_precession_results
+task_5/Мусор
+task_5/*.txt
+task_5/*.csv
+task_5/chern*.py
+
+# Labs
